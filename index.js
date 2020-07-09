@@ -1,5 +1,3 @@
-// Your code here
-
 function mapToNegativize(sourceArray) {
   const newArray = [];
   sourceArray.forEach((item) => {
